@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ewujashua.innobuzznigeria.com/sitemap.xml
